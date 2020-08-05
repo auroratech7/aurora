@@ -1,4 +1,4 @@
-# Hi, I'm Agung Pratamara🏾‍👨‍💻
+# Hi, I'm Agung Pratama🏾‍👨‍💻
 
 [![Dinesh's github stats](https://github-readme-stats.vercel.app/api?username=dinesh-ysl&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/skylark17)       
 
