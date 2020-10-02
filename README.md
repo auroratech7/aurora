@@ -43,6 +43,78 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  
+  <br>
+  
+<!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-376-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 1,858 Contributions in the Year 2020
+ > 
+> 📦 1000.9 MB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 74 Public Repositories
+ > 
+> 🔑 5 Private Repositories 
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    196 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.44% 
+🌆 Daytime    223 commits    █████░░░░░░░░░░░░░░░░░░░░   22.12% 
+🌃 Evening    267 commits    ██████░░░░░░░░░░░░░░░░░░░   26.49% 
+🌙 Night      322 commits    ████████░░░░░░░░░░░░░░░░░   31.94%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       157 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
+Tuesday      140 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
+Wednesday    126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Thursday     168 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Friday       156 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
+Saturday     140 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
+Sunday       121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   23 repos            ██████░░░░░░░░░░░░░░░░░░░   25.27% 
+C++                      20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.98% 
+C                        12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
+Makefile                 12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
+PHP                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.59%
+
+```
+
+
+
+<!--END_SECTION:waka-->
+
+</details>
+
+---
+
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/1TLtqSVyiUE5hReeSB8mua)
 
