@@ -1,4 +1,4 @@
-## Hi, there! I'm Agung Pratama  <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
+## Hi, there! I'm Agung Pratama
 
 <p align="center">
 <a href="https://github.com/skylark17"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
