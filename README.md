@@ -6,7 +6,6 @@
 <a href="mailto:id.agungpratama@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></p></a>
 
 **Here is my portofolio as follows:**
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/git-header.svg" />
 
 - A ROM maintainer for Redmi Note 9 Pro ( Joyeuse )
 - Official maintainer for [Resurrection Remix](https://github.com/ResurrectionRemix)
