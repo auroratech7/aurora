@@ -7,7 +7,7 @@
 
 **Here is my portofolio as follows:**
 
-- A ROM maintainer for Redmi Note 9 Pro ( Joyeuse )
+- A ROM maintainer for MI 11 Lite ( Courbet )
 - Official maintainer for [Resurrection Remix](https://github.com/ResurrectionRemix)
 - Ubuntu & MacOS
 - Spending my whole time to do some experiment in Android development stuffs
@@ -22,7 +22,7 @@
 **Some programming languages that are already learned by me as follows:** 
 <p>
   <a href="https://github.com/sklylark17">
-    <img width="55%" align="right" alt="Agung Pratama GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=skylark17&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Agung Pratama GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=skylark17auroratech7
   </a>
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
